@@ -36,13 +36,21 @@ Built for **PostgreSQL** and designed to run smoothly on **pgAdmin 4 (Mac-friend
 
 ---
 
-## 📊 Sample Power BI Dashboard Output
+## 📊 Sample Power BI Output
 
-![Bank Loan Dashboard](BANK LOAN DASHBARD.pdf)
+View the full Power BI dashboard output:  
+📄 **[BANK LOAN DASHBARD.pdf](./BANK%20LOAN%20DASHBARD.pdf)**
+
+The PDF includes:
+- Summary KPIs
+- Good vs. Bad Loan Performance
+- Monthly trends
+- Segmentation by state, term, purpose, and ownership
+- Loan-level transaction snapshots
 
 ---
 
-## 📌 Highlight Metrics (Sample Data)
+## 📌 Highlight Metrics (from PDF Output)
 
 | Metric                          | Value           |
 |---------------------------------|------------------|
