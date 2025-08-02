@@ -38,7 +38,7 @@ Built for **PostgreSQL** and designed to run smoothly on **pgAdmin 4 (Mac-friend
 
 ## 📊 Sample Power BI Dashboard Output
 
-![Bank Loan Dashboard](images/bank-loan-dashboard.png)
+![Bank Loan Dashboard](BANK LOAN DASHBARD.pdf)
 
 ---
 
