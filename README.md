@@ -1,12 +1,10 @@
 # 🏦 Bank Loan SQL Reporting & Dashboard Project
 
----
-
 ## 🛠️ Tools & Technologies Used
 
-| Technology     | Purpose                                  |
+| Technology     | Purpose                                   |
 |----------------|-------------------------------------------|
-| 📊 Power BI     | Dashboard creation and visual storytelling|
+| 📊 Power BI     | Dashboard creation and visual storytelling |
 | 🧮 SQL           | Metric calculation, filtering, and joins  |
 
 ---
@@ -47,31 +45,30 @@ Built for **PostgreSQL** and designed to run smoothly on **pgAdmin 4 (Mac-friend
 
 ---
 
-## 📊 Sample Power BI Output
+## 🖥️ Dashboard Preview
 
-View the full Power BI dashboard output:  
-📄 **[BANK LOAN DASHBARD.pdf](./BANK%20LOAN%20DASHBARD.pdf)**
+### 📌 Summary Page
+![Bank Loan Summary](./B1.png)
 
-The PDF includes:
-- Summary KPIs
-- Good vs. Bad Loan Performance
-- Monthly trends
-- Segmentation by state, term, purpose, and ownership
-- Loan-level transaction snapshots
+### 📌 Overview Page
+![Bank Loan Overview](./B2.png)
+
+### 📌 Details Page
+![Bank Loan Details](./B3.png)
 
 ---
 
-## 📌 Highlight Metrics (from PDF Output)
+## 📌 Highlight Metrics
 
-| Metric                          | Value           |
-|---------------------------------|------------------|
-| **Total Loan Applications**     | 587              |
-| **Total Funded Amount**         | $11.6M           |
-| **Total Amount Received**       | $12.8M           |
-| **MTD Funded Amount**           | $1.6M            |
-| **MTD Received Amount**         | $1.7M            |
-| **Average Interest Rate**       | 19.8% (MTD: 20.4%) |
-| **Average DTI**                 | 15.2% (MTD: 14.9%) |
+| Metric                          | Value             |
+|--------------------------------|-------------------|
+| **Total Loan Applications**     | 587               |
+| **Total Funded Amount**         | $11.6M            |
+| **Total Amount Received**       | $12.8M            |
+| **MTD Funded Amount**           | $1.6M             |
+| **MTD Received Amount**         | $1.7M             |
+| **Average Interest Rate**       | 19.8% (MTD: 20.4%)|
+| **Average DTI**                 | 15.2% (MTD: 14.9%)|
 
 ---
 
@@ -80,7 +77,7 @@ The PDF includes:
 | Loan Type | Applications | Funded Amount | Amount Received |
 |-----------|--------------|----------------|------------------|
 | **Good** (Fully Paid + Current) | 393          | $7.6M            | $10.4M           |
-| **Bad** (Charged Off)          | 194          | $3.9M            | $2.4M            |
+| **Bad** (Charged Off)           | 194          | $3.9M            | $2.4M            |
 
 ---
 
