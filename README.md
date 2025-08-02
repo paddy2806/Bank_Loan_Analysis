@@ -1,5 +1,16 @@
 # 🏦 Bank Loan SQL Reporting & Dashboard Project
 
+---
+
+## 🛠️ Tools & Technologies Used
+
+| Technology     | Purpose                                  |
+|----------------|-------------------------------------------|
+| 📊 Power BI     | Dashboard creation and visual storytelling|
+| 🧮 SQL           | Metric calculation, filtering, and joins  |
+
+---
+
 ## 📌 Overview
 
 This project delivers a **comprehensive SQL reporting suite** and accompanying **Power BI dashboard** tailored for end-to-end analysis of bank loan portfolios. It enables users to extract, aggregate, and visualize **Key Performance Indicators (KPIs)** to monitor portfolio health, performance trends, and operational risk.
